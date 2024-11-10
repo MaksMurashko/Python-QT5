@@ -2,11 +2,10 @@
 
 ## Интерфейс программы
 
-
-![image-1](https://github.com/user-attachments/assets/9af1b251-8efb-4c40-a8c1-de741463eb5c)
-![image](https://github.com/user-attachments/assets/080bf5ff-e817-4f71-baf8-307fa1ced0db)
-![image-6](https://github.com/user-attachments/assets/406635a9-a177-419d-a705-5f07f5b1c54f)
-![image-5](https://github.com/user-attachments/assets/ebb5a1d7-ba95-41fc-b591-a90a29808acb)
-![image-4](https://github.com/user-attachments/assets/0a5b0b7f-2b6e-4c73-bb1d-f86707856e55)
-![image-3](https://github.com/user-attachments/assets/18a101c0-bd90-44ea-8c0d-d83977c00d8c)
-![image-2](https://github.com/user-attachments/assets/47dd0929-6ab9-41cf-aaeb-c02e2cda3b74)
+![image-1](https://github.com/user-attachments/assets/51a4ffeb-4f8e-4335-a8bd-a4b2a7aae6da)
+![image](https://github.com/user-attachments/assets/2c0e7156-1a6a-419f-8f11-fde461f5564a)
+![image-6](https://github.com/user-attachments/assets/cf9c5ec2-a4af-4ed5-a21d-262c443fafda)
+![image-5](https://github.com/user-attachments/assets/0b2df59a-a622-453d-8f62-9c11e5b95762)
+![image-4](https://github.com/user-attachments/assets/6e5b3222-8af7-4f2c-a761-9f6761e91194)
+![image-3](https://github.com/user-attachments/assets/69f16210-130d-4f33-9ead-f4ecf43d7495)
+![image-2](https://github.com/user-attachments/assets/8daf71a8-db65-4840-bbbb-aa7daf636338)
